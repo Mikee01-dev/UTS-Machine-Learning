@@ -5,17 +5,18 @@
 **Kelompok:** 4  
 **Kode Soal:** D  
 **Dosen Pengampu:**
-- Dr. Indah Werdiningsih, S.Si., M.Kom
-- Barry Nuqoba, S.Si., M.Kom., Ph.D
-- Purbandini, S.Si., M.Kom
+- Dr. Indah Werdiningsih.,S.Si.,M.Kom
+- Tesa Eranti Putri.,S.Kom., M.Kom
+- Barry Nuqoba., S.Si., M.Kom., Ph.D
+- Purbandini.,S.Si.,M.Kom
 
 **Anggota Kelompok:**
 
 | NIM | Nama |
 |---|---|
-| 4342410... | Sovia Aribi Damayanti |
-| 4342410... | Kayla Dicta Pramudya |
-| 4342410... | Michael Putra Pratama Otemusu |
+| 434241030 | Sovia Aribi Damayanti |
+| 434241028 | Kayla Dicta Pramudya |
+| 434241029 | Michael Putra Pratama Otemusu |
 
 ---
 
